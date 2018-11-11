@@ -1,2 +1,2 @@
-# BTP_ML_in_Healthcare
-Machine Learning application in healthcare domain
+# Bachelors Thesis Porject ML in Healthcare
+Ongoing Bachelors Thesis on Machine Learning applications in healthcare domain

@@ -5,3 +5,5 @@
 plots/
 *.pdf
 *.txt
+test.csv
+train.csv

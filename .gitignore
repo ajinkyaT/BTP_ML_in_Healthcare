@@ -1,3 +1,9 @@
-*pdf
-*txt
+# project files
 **/*.ipynb_checkpoints/
+
+# output files
+plots/
+*.pdf
+*.txt
+test.csv
+train.csv

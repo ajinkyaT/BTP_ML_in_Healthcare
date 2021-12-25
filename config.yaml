@@ -1,0 +1,5 @@
+---
+  seed: 0
+  train_ratio: 0.7
+  penalty: "l1"
+  lasso: false
